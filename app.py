@@ -27,7 +27,7 @@ N = 20
 
 PRESETS = {
     "High α, low β, low γ": {
-        "vae": "checkpoints/mg-vae_lowercase.pth",
+        "vae": "checkpoints/mg-vae_lowercase_abc.pth",
         "cls": "checkpoints/cls_lowercase_56px.pth",
         "dataset": "data/lowercase.zip"
     },
