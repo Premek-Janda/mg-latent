@@ -9,3 +9,5 @@ plotly
 timm
 Pillow
 mglyph
+ipython
+ipywidgets
